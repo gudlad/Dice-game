@@ -1,2 +1,2 @@
 # Dice-game
-A javascript dome manipulation project.
+A javascript project based on DOM manipulation.Basic project for getting familiarised with dome manipulations.
